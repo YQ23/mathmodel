@@ -1,2 +1,2 @@
 # mathmodel
-数学建模的算法MATLAB实现
+数学建模算法MATLAB实现
